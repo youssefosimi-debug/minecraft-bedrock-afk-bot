@@ -1,6 +1,6 @@
 {
-  "serverHost": "YSF511.aternos.me",
-  "serverPort": 57662,
+  "host": "YSF511.aternos.me",
+  "port": 57662,
   "version": "1.26.21.1",
   "botUsername": "YSF511",
   "offline": true
